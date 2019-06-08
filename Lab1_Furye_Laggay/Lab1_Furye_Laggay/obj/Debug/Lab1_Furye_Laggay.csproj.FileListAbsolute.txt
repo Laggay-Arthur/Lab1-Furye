@@ -1,0 +1,10 @@
+C:\Users\Артур\source\repos\Lab1_Furye_Laggay\Lab1_Furye_Laggay\bin\Debug\Lab1_Furye_Laggay.exe.config
+C:\Users\Артур\source\repos\Lab1_Furye_Laggay\Lab1_Furye_Laggay\bin\Debug\Lab1_Furye_Laggay.exe
+C:\Users\Артур\source\repos\Lab1_Furye_Laggay\Lab1_Furye_Laggay\bin\Debug\Lab1_Furye_Laggay.pdb
+C:\Users\Артур\source\repos\Lab1_Furye_Laggay\Lab1_Furye_Laggay\obj\Debug\Lab1_Furye_Laggay.csprojAssemblyReference.cache
+C:\Users\Артур\source\repos\Lab1_Furye_Laggay\Lab1_Furye_Laggay\obj\Debug\Lab1_Furye_Laggay.Form1.resources
+C:\Users\Артур\source\repos\Lab1_Furye_Laggay\Lab1_Furye_Laggay\obj\Debug\Lab1_Furye_Laggay.Properties.Resources.resources
+C:\Users\Артур\source\repos\Lab1_Furye_Laggay\Lab1_Furye_Laggay\obj\Debug\Lab1_Furye_Laggay.csproj.GenerateResource.cache
+C:\Users\Артур\source\repos\Lab1_Furye_Laggay\Lab1_Furye_Laggay\obj\Debug\Lab1_Furye_Laggay.csproj.CoreCompileInputs.cache
+C:\Users\Артур\source\repos\Lab1_Furye_Laggay\Lab1_Furye_Laggay\obj\Debug\Lab1_Furye_Laggay.exe
+C:\Users\Артур\source\repos\Lab1_Furye_Laggay\Lab1_Furye_Laggay\obj\Debug\Lab1_Furye_Laggay.pdb
